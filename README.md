@@ -1,9 +1,14 @@
-### Hi there 👋
+# Hello people! 
+
+<a href="https://www.linkedin.com/in/stefano-stoduto-a4859160/"><img src="https://img.shields.io/badge/-LinkedIn-blue" /></a>
+
+I'm a backend/full stack developer (yeah, weird mix), very interested and passionate about software design, languages and DYI. 
+
+
+
 
 <!--
-**OmbraDiFenice/OmbraDiFenice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Some of my projects
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
