@@ -4,9 +4,11 @@
 
 I'm a backend/full stack developer (yeah, weird mix), very interested and passionate about software design, languages and DYI. 
 
+## Some of my projects
+
+<a href="https://www.npmjs.com/package/table2csv"><img src="https://gh-card.dev/repos/OmbraDiFenice/table2csv.svg"></a>
 
 <!--
-## Some of my projects
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
