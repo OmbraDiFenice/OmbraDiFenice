@@ -6,7 +6,7 @@ I'm a backend/full stack developer (yeah, weird mix), very interested and passio
 
 ## Some of my projects
 
-<a href="https://www.npmjs.com/package/table2csv"><img src="https://gh-card.dev/repos/OmbraDiFenice/table2csv.svg"></a>
+<a href="https://www.npmjs.com/package/table2csv" target="_blank"><img src="https://gh-card.dev/repos/OmbraDiFenice/table2csv.svg"></a>
 
 <!--
 
