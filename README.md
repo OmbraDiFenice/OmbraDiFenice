@@ -4,12 +4,6 @@
 
 I'm a backend/full stack developer (yeah, weird mix), very interested and passionate about software design, languages and DYI. 
 
-<script>
-  function test(){console.log("script!");}
-</script>
-
-<script>test();</script>
-
 
 <!--
 ## Some of my projects
