@@ -4,6 +4,17 @@ I'm a backend/full stack developer (yeah, weird mix), very interested and passio
 
 <a href="https://www.linkedin.com/in/stefano-stoduto-a4859160/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
+## Currently working on
+
+<a href="https://github.com/OmbraDiFenice/gbEmu"><img src="https://gh-card.dev/repos/OmbraDiFenice/gbEmu.svg"></a>
+
+I always wanted to write a gameboy emulator. I think it's a great way to apply many of the things you study about simple computer architectures,
+to experiment with new concepts and learn new technologies - even new languages. The hardware it's old enough to be easy to understand, yet it 
+is powerful enough to get to run some cool games, which is a big motivational plus :D
+
+I'm using this project specifically to learn a bit of OpenGL and as a training ground for my software design skills, including a generic project
+setup like configuration of the build toolchain, dependency management, modularity and CI.
+
 ## Some of my projects
 
 <a href="https://www.npmjs.com/package/table2csv"><img src="https://gh-card.dev/repos/OmbraDiFenice/table2csv.svg"></a>
@@ -29,14 +40,3 @@ This project features:
  - some simple utility classes (string and vector), again because I didn't have them available from C++ std lib on Arduino
  - dynamically extensible set of effects that can be played on the cube. Adding a new one is just a matter of creating a new file with the code and calling the dedicated macro to register it in the system
 
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
