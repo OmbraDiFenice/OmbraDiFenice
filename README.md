@@ -12,7 +12,7 @@ This is a very simple jQuery plugin that allow to export an HTML table as csv.
 You can download a csv file directly or just convert it to a string to print out in your page.
 Check out the [live demo page](https://ombradifenice.github.io/table2csv/) if you want to try it out.
 
-It's very simple, yet it was useful to me (it is actually a subproduct of a tool I wrote at work a while ago) so I thought to share it and also used it to experiment with a release on npmjs.
+It's very simple, yet it was useful to me (it is actually a subproduct of a tool I wrote at work a while ago) so I thought to share it and also used it to experiment with a release on npmjs and jQuery.
 
 ---
 
