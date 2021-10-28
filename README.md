@@ -1,8 +1,8 @@
 # Hello people! 
 
-<a href="https://www.linkedin.com/in/stefano-stoduto-a4859160/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
 I'm a backend/full stack developer (yeah, weird mix), very interested and passionate about software design, languages and DYI. 
+I
+<a href="https://www.linkedin.com/in/stefano-stoduto-a4859160/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 ## Some of my projects
 
