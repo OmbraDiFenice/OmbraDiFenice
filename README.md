@@ -4,7 +4,7 @@ I'm a backend/full stack developer (yeah, weird mix), very interested and passio
 
 <a href="https://www.linkedin.com/in/stefano-stoduto-a4859160/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-## Currently working on
+## What I'm currently working on
 
 <a href="https://github.com/OmbraDiFenice/gbEmu"><img src="https://gh-card.dev/repos/OmbraDiFenice/gbEmu.svg"></a>
 
