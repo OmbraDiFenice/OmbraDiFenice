@@ -40,3 +40,14 @@ This project features:
  - some simple utility classes (string and vector), again because I didn't have them available from C++ std lib on Arduino
  - dynamically extensible set of effects that can be played on the cube. Adding a new one is just a matter of creating a new file with the code and calling the dedicated macro to register it in the system
 
+---
+
+<a href="https://github.com/OmbraDiFenice/autoDownloader"><img src="https://gh-card.dev/repos/OmbraDiFenice/autoDownloader.svg"></a>
+
+A simple script to automatically check some sources for new content to download.
+
+I used this to experiment a bit with software design in Python and with [jsonschema](https://json-schema.org/) validation.
+
+Effort was put to make the script easily extensible in many aspects, such as:
+ - customizable information provider and downloader
+ - hooks to run custom scripts
