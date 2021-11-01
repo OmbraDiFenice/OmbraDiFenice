@@ -37,7 +37,7 @@ This was my first attempt to work with an Arduino, and it was interesting to wor
 
 This project features:
  - my own, extremely simple, C++ test framework (inspired by [GTest](https://github.com/google/googletest)) which _can run on Arduino itself_. I just wanted to make sure that I wasn't having any "surprise" with things specific to the hardware
- - some simple utility classes (string and vector), again because I didn't have them available from C++ std lib on Arduino
+ - some simple utility class (string and vector), again because I didn't have them available from C++ std lib on Arduino
  - dynamically extensible set of effects that can be played on the cube. Adding a new one is just a matter of creating a new file with the code and calling the dedicated macro to register it in the system
 
 ---
