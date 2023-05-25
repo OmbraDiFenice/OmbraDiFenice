@@ -6,6 +6,8 @@ I'm a backend/full stack developer (yeah, weird mix), very interested and passio
 
 ## What I'm currently working on
 
+### GameBoy emulator
+
 <a href="https://github.com/OmbraDiFenice/gbEmu"><img src="https://gh-card.dev/repos/OmbraDiFenice/gbEmu.svg"></a>
 
 I always wanted to write a gameboy emulator. I think it's a great way to apply many of the things you study about simple computer architectures,
@@ -17,6 +19,8 @@ setup like configuration of the build toolchain, dependency management, modulari
 
 ## Some of my projects
 
+### table2csv JQuery plugin
+
 <a href="https://www.npmjs.com/package/table2csv"><img src="https://gh-card.dev/repos/OmbraDiFenice/table2csv.svg"></a>
 
 This is a very simple jQuery plugin that allow to export an HTML table as csv.
@@ -26,6 +30,8 @@ Check out the [live demo page](https://ombradifenice.github.io/table2csv/) if yo
 It's very simple, yet it was useful to me (it is actually a subproduct of a tool I wrote at work a while ago) so I thought to share it and also used it to experiment with a release on npmjs and jQuery.
 
 ---
+
+### LedCube
 
 <a href="https://github.com/OmbraDiFenice/ledCubeLib"><img src="https://gh-card.dev/repos/OmbraDiFenice/ledCubeLib.svg"></a>
 <a href="https://github.com/OmbraDiFenice/ledCube"><img src="https://gh-card.dev/repos/OmbraDiFenice/ledCube.svg"></a>
@@ -41,6 +47,8 @@ This project features:
  - dynamically extensible set of effects that can be played on the cube. Adding a new one is just a matter of creating a new file with the code and calling the dedicated macro to register it in the system
 
 ---
+
+### AutoDownloader
 
 <a href="https://github.com/OmbraDiFenice/autoDownloader"><img src="https://gh-card.dev/repos/OmbraDiFenice/autoDownloader.svg"></a>
 
